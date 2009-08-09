@@ -1,0 +1,9 @@
+--Output from test1--
+<org.codehaus.groovy.grails.commons.DefaultGrailsDomainClassProperty@1e5879 domainClass=Artefact > Person persistant=true identity=false oneToMany=true name=favoriteTags type=interface java.util.Set manyToMany=false manyToOne=false oneToOne=false bidirectional=true referencedPropertyType=class link.FavoriteTag referencedDomainClass=null otherSide=null naturalName=Favorite Tags inherited=false fetchMode=0 owningSide=false referencePropertyName=person embedded=false component=null basicCollectionType=false>
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+

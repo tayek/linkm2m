@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ray" name="link.Linkm2mIntegrationTests" tests="7" time="0.313" timestamp="2009-08-08T20:32:00">
+  <properties />
+  <testcase classname="link.Linkm2mIntegrationTests" name="test1" time="0.016" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithAllArgs" time="0.047" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithSomeArgs" time="0.031" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithFewest" time="0.032" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithNullClosure" time="0.032" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithClosure" time="0.062" />
+  <testcase classname="link.Linkm2mIntegrationTests" name="testLinkWithInheritance" time="0.047" />
+  <system-out><![CDATA[--Output from test1--
+<org.codehaus.groovy.grails.commons.DefaultGrailsDomainClassProperty@1e5879 domainClass=Artefact > Person persistant=true identity=false oneToMany=true name=favoriteTags type=interface java.util.Set manyToMany=false manyToOne=false oneToOne=false bidirectional=true referencedPropertyType=class link.FavoriteTag referencedDomainClass=null otherSide=null naturalName=Favorite Tags inherited=false fetchMode=0 owningSide=false referencePropertyName=person embedded=false component=null basicCollectionType=false>
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+]]></system-out>
+  <system-err><![CDATA[--Output from test1--
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+]]></system-err>
+</testsuite>

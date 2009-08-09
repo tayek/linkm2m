@@ -1,0 +1,8 @@
+--Output from test1--
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+

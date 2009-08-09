@@ -1,0 +1,16 @@
+Testsuite: link.LinkIntegrationTests
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 1.187 sec
+------------- Standard Output ---------------
+--Output from testLink--
+--Output from testLink2--
+--Output from testLink3--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testLink--
+--Output from testLink2--
+--Output from testLink3--
+------------- ---------------- ---------------
+
+Testcase: testLink took 0.985 sec
+Testcase: testLink2 took 0.063 sec
+Testcase: testLink3 took 0.062 sec

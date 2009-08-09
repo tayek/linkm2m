@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ray" name="link.LinkIntegrationTests" tests="3" time="1.187" timestamp="2009-08-08T20:31:59">
+  <properties />
+  <testcase classname="link.LinkIntegrationTests" name="testLink" time="0.985" />
+  <testcase classname="link.LinkIntegrationTests" name="testLink2" time="0.063" />
+  <testcase classname="link.LinkIntegrationTests" name="testLink3" time="0.062" />
+  <system-out><![CDATA[--Output from testLink--
+--Output from testLink2--
+--Output from testLink3--
+]]></system-out>
+  <system-err><![CDATA[--Output from testLink--
+--Output from testLink2--
+--Output from testLink3--
+]]></system-err>
+</testsuite>

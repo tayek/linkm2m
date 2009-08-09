@@ -1,0 +1,29 @@
+Testsuite: link.Linkm2mIntegrationTests
+Tests run: 7, Failures: 0, Errors: 0, Time elapsed: 0.313 sec
+------------- Standard Output ---------------
+--Output from test1--
+<org.codehaus.groovy.grails.commons.DefaultGrailsDomainClassProperty@1e5879 domainClass=Artefact > Person persistant=true identity=false oneToMany=true name=favoriteTags type=interface java.util.Set manyToMany=false manyToOne=false oneToOne=false bidirectional=true referencedPropertyType=class link.FavoriteTag referencedDomainClass=null otherSide=null naturalName=Favorite Tags inherited=false fetchMode=0 owningSide=false referencePropertyName=person embedded=false component=null basicCollectionType=false>
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test1--
+--Output from testLinkWithAllArgs--
+--Output from testLinkWithSomeArgs--
+--Output from testLinkWithFewest--
+--Output from testLinkWithNullClosure--
+--Output from testLinkWithClosure--
+--Output from testLinkWithInheritance--
+------------- ---------------- ---------------
+
+Testcase: test1 took 0.016 sec
+Testcase: testLinkWithAllArgs took 0.047 sec
+Testcase: testLinkWithSomeArgs took 0.031 sec
+Testcase: testLinkWithFewest took 0.032 sec
+Testcase: testLinkWithNullClosure took 0.032 sec
+Testcase: testLinkWithClosure took 0.062 sec
+Testcase: testLinkWithInheritance took 0.047 sec
